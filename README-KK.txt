@@ -30,6 +30,15 @@ npm install -g generator-meanjs@0.1.12
 Now open any directory and run yo meanjs command you will get all code base.
 run command yo meanjs
 
+install ruby
+
+install sass
+gem install sass
+
+install grunt
+install grunt-contrib-sass
+
+
 generat frontend run- grunt build
 
 now you need start database mongodb
